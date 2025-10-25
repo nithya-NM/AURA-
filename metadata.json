@@ -1,0 +1,8 @@
+{
+  "name": "aura",
+  "description": "An in-cab smart guidance system for specially-abled passengers, featuring AI assistance, multi-role views (Passenger, Driver, Caregiver), and advanced accessibility options.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
